@@ -22,3 +22,6 @@ Transformers,Zero-shot Classification (AI Analizi)
 PyPDF,PDF İçerik Okuma
 Openpyxl,Modern Excel Dosyaları
 Python-Docx,Word Belgesi İşleme
+
+
+“This project was originally developed by Semih Çelik (2026).”
